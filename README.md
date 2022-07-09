@@ -1,16 +1,37 @@
-### Hi there 👋
+<pre>
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Fathima Nooha 
+├─▣ CSE undergraduate <!--
+├─▣ 
+├─▣ -->
+│
+└───────────────────────────────▰▰▰
 
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://https://twitter.com/_nooha01">Twitter</a>
+├─◈ <a href="https://www.linkedin.com/in/fathima-nooha-kottangodan/">LinkedIn</a>
+├─◈ <a href="noohakottangodan.medium.com/">Medium</a>
+│
+└───────────────────────────────▰▰▰
+
+
+┌──────────────────────▰▰▰
+│
+├─◈ <strong><i>“I am no bird; and no net ensnares me, I am a free human being with an independent will.”</i></strong>
+│                             ― Charlotte Brontë, Jane Eyre
+│ 
+└───────────────────────────────▰▰▰
 <!--
-**nooha01/nooha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈
+├─◈ 
+├─◈ 
+├─◈ 
+├─◈ 
+├─◈ 
+│
+└───────────────────────────────▰▰▰ -->
+</pre>
