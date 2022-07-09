@@ -10,9 +10,9 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://https://twitter.com/_nooha01">Twitter</a>
+├─◈ <a href="https://twitter.com/_nooha01">Twitter</a>
 ├─◈ <a href="https://www.linkedin.com/in/fathima-nooha-kottangodan/">LinkedIn</a>
-├─◈ <a href="noohakottangodan.medium.com/">Medium</a>
+├─◈ <a href="https://noohakottangodan.medium.com/">Medium</a>
 │
 └───────────────────────────────▰▰▰
 
