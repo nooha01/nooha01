@@ -1,7 +1,7 @@
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Fathima Nooha 
+├─▣ Fathima Nooha Kottangodan
 ├─▣ CSE undergraduate <!--
 ├─▣ 
 ├─▣ -->
